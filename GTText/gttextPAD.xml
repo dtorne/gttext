@@ -82,7 +82,7 @@
 			<Application_Order_URL>http://www.softocr.com/downloads/</Application_Order_URL>
 			<Application_Screenshot_URL>http://gttext.googlecode.com/files/screenshot2.jpg</Application_Screenshot_URL>
 			<Application_Icon_URL>http://gttext.googlecode.com/files/bitmap2.png</Application_Icon_URL>
-			<Application_XML_File_URL>http://raw.githubusercontent.com/dtorne/gttext/master/GTText/gttextPAD.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/dtorne/gttext/master/GTText/gttextPAD.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>http://www.softocr.com/DownL/GTText_Setup_2.0.2_32.exe</Primary_Download_URL>
