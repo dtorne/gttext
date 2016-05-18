@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>Online PAD Generator 1.33 - http://www.padbuilder.com</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>SoftOCR</Company_Name>
+		<Address_1>C/Torroella de Montgri, 21</Address_1>
+		<Address_2 />
+		<City_Town>Barcelona</City_Town>
+		<State_Province>BARCELONA</State_Province>
+		<Zip_Postal_Code>08027</Zip_Postal_Code>
+		<Country>Spain</Country>
+		<Company_WebSite_URL>http://www.softocr.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>David</Author_First_Name>
+			<Author_Last_Name>Torne</Author_Last_Name>
+			<Author_Email>dtorne@gmail.com</Author_Email>
+			<Contact_First_Name>David</Contact_First_Name>
+			<Contact_Last_Name>Torne</Contact_Last_Name>
+			<Contact_Email>dtorne@gmail.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>support@softocr.com</Sales_Email>
+			<Support_Email>support@softocr.com</Support_Email>
+			<General_Email>support@softocr.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>GT Text</Program_Name>
+		<Program_Version>2.0.2</Program_Version>
+		<Program_Release_Month>05</Program_Release_Month>
+		<Program_Release_Day>18</Program_Release_Day>
+		<Program_Release_Year>2016</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support />
+		<Program_OS_Support>Win7 x32,Win7 x64,WinXP,Other</Program_OS_Support>
+		<Program_Language>English,French,Spanish</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>Business::Other</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements>Windows XP/7/8/10</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes />
+			<File_Size_K />
+			<File_Size_MB />
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On />
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>ocr,text recognition,free ocr,copy image text</Keywords>
+			<Char_Desc_45>OCR that recognizes and copy text from images</Char_Desc_45>
+			<Char_Desc_80>GT Text performs fast OCR text recognition and copies image text to clipboard. Loads from screen snapshots, image files or scanned documents.</Char_Desc_80>
+			<Char_Desc_250>GT Text is a free OCR text recognition software for windows powered by the latest Google open source Tesseract algorithms. It performs a quick and accurate copy of any text included in a colour image, scanned document, area of the screen and more. Se</Char_Desc_250>
+			<Char_Desc_450>An OCR tool transforms image text to its digitalized version, allowing you to recognize and copy text to a format that all the editors and computers programs understand.          With GT Text, we take the approach that if you read it, you can copy it. So we transform for you any text that you can not copy to the clipboard, to a format that your clipboard understands. Also we help you digitalize image documents to its text format so its content ca</Char_Desc_450>
+			<Char_Desc_2000>An OCR tool transforms image text to its digitalized version, allowing you to recognize and copy text to a format that all the editors and computers programs understand.          With GT Text, we take the approach that if you read it, you can copy it. So we transform for you any text that you can not copy to the clipboard, to a format that your clipboard understands. Also we help you digitalize image documents to its text format so its content can be searchable and editable easily in the future. For example, just copy the text into a text editor of your choice, save the file, name it like image document and you searching now from your operating system, you will know which image contains that text.  GT Text performs fast OCR text recognition and copies image text to clipboard. Loads from screen snapshots, image files or scanned documents.  Extracting text from complex color images can be done immediately just by selecting any zone from an image, screenshots, web page (since version 2.0.1) , image files, and of course from scanned documents.  </Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.softocr.com</Application_Info_URL>
+			<Application_Order_URL>http://www.softocr.com/downloads/</Application_Order_URL>
+			<Application_Screenshot_URL>http://gttext.googlecode.com/files/screenshot2.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://gttext.googlecode.com/files/bitmap2.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.softocr.com/wp-content/uploads/2016/05/gttextPAD.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.softocr.com/DownL/GTText_Setup_2.0.2_32.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Copyright (c) 2016 Softocr
+
+Permission to use, copy and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</Distribution_Permissions>
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>
