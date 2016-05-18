@@ -43,7 +43,7 @@
 		<Program_Cost_Other />
 		<Program_Type>Freeware</Program_Type>
 		<Program_Release_Status>New Release</Program_Release_Status>
-		<Program_Install_Support />
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
 		<Program_OS_Support>Win7 x32,Win7 x64,WinXP,Other</Program_OS_Support>
 		<Program_Language>English,French,Spanish</Program_Language>
 		<Program_Change_Info />
@@ -52,9 +52,9 @@
 		<Program_Categories />
 		<Program_System_Requirements>Windows XP/7/8/10</Program_System_Requirements>
 		<File_Info>
-			<File_Size_Bytes />
-			<File_Size_K />
-			<File_Size_MB />
+			<File_Size_Bytes>12792500</File_Size_Bytes>
+			<File_Size_K>12492.68</File_Size_K>
+			<File_Size_MB>12.2</File_Size_MB>
 		</File_Info>
 		<Expire_Info>
 			<Has_Expire_Info>N</Has_Expire_Info>
@@ -70,10 +70,10 @@
 		<English>
 			<Keywords>ocr,text recognition,free ocr,copy image text</Keywords>
 			<Char_Desc_45>OCR that recognizes and copy text from images</Char_Desc_45>
-			<Char_Desc_80>GT Text performs fast OCR text recognition and copies image text to clipboard. Loads from screen snapshots, image files or scanned documents.</Char_Desc_80>
+			<Char_Desc_80>GT Text performs fast OCR text recognition and copies image text to clipboard.</Char_Desc_80>
 			<Char_Desc_250>GT Text is a free OCR text recognition software for windows powered by the latest Google open source Tesseract algorithms. It performs a quick and accurate copy of any text included in a colour image, scanned document, area of the screen and more. Se</Char_Desc_250>
 			<Char_Desc_450>An OCR tool transforms image text to its digitalized version, allowing you to recognize and copy text to a format that all the editors and computers programs understand.          With GT Text, we take the approach that if you read it, you can copy it. So we transform for you any text that you can not copy to the clipboard, to a format that your clipboard understands. Also we help you digitalize image documents to its text format so its content ca</Char_Desc_450>
-			<Char_Desc_2000>An OCR tool transforms image text to its digitalized version, allowing you to recognize and copy text to a format that all the editors and computers programs understand.          With GT Text, we take the approach that if you read it, you can copy it. So we transform for you any text that you can not copy to the clipboard, to a format that your clipboard understands. Also we help you digitalize image documents to its text format so its content can be searchable and editable easily in the future. For example, just copy the text into a text editor of your choice, save the file, name it like image document and you searching now from your operating system, you will know which image contains that text.  GT Text performs fast OCR text recognition and copies image text to clipboard. Loads from screen snapshots, image files or scanned documents.  Extracting text from complex color images can be done immediately just by selecting any zone from an image, screenshots, web page (since version 2.0.1) , image files, and of course from scanned documents.  </Char_Desc_2000>
+			<Char_Desc_2000>An OCR tool transforms image text to its digitalized version, allowing you to recognize and copy text to a format that all the editors and computers programs understand.          With GT Text, we take the approach that if you read it, you can copy it. So we transform for you any text that you can not copy to the clipboard, to a format that your clipboard understands. Also we help you digitalize image documents to its text format so its content can be searchable and editable easily in the future. For example, just copy the text into a text editor of your choice, save the file, name it like image document and you searching now from your operating system, you will know which image contains that text.  GT Text performs fast OCR text recognition and copies image text to clipboard. Loads from screen snapshots, image files or scanned documents.  Extracting text from complex color images can be done immediately just by selecting any zone from an image, screenshots, web page (since version 2.0.1) , image files, and of course from scanned documents.</Char_Desc_2000>
 		</English>
 	</Program_Descriptions>
 	<Web_Info>
@@ -82,7 +82,7 @@
 			<Application_Order_URL>http://www.softocr.com/downloads/</Application_Order_URL>
 			<Application_Screenshot_URL>http://gttext.googlecode.com/files/screenshot2.jpg</Application_Screenshot_URL>
 			<Application_Icon_URL>http://gttext.googlecode.com/files/bitmap2.png</Application_Icon_URL>
-			<Application_XML_File_URL>http://www.softocr.com/wp-content/uploads/2016/05/gttextPAD.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>http://raw.githubusercontent.com/dtorne/gttext/master/GTText/gttextPAD.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>http://www.softocr.com/DownL/GTText_Setup_2.0.2_32.exe</Primary_Download_URL>
